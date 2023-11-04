@@ -1,1 +1,2 @@
 # bac-minimEliminari
+In fisierul numere.in se afla pe prima linie un numar natural N iar pe urmatoarele linii se afla N numere naturale reprezentand elementele unui vector. Sa se scrie un program care citeste valorile din fisier si elimina din vector un numar minim de elemente astfel incat in vector sa nu se afle doua valori egale pe pozitii consecutive. Vectorul astfel obtinut se va afisa pe ecran.
